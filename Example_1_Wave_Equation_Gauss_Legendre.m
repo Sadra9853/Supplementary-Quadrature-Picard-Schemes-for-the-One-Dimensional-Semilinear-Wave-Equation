@@ -1,5 +1,5 @@
 %% Example_1_Wave_Equation_Supplementary_Gauss_Legendre_Figures.m
-%  GL version — corrected convergence study (space grid tied to time grid).
+
 %
 %  Panel 1 : log-log convergence e_m vs h = T/m with reference slopes
 %  Panel 2 : pointwise error |u_h(T,x) - u(T,x)| at the finest run
